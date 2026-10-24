@@ -77,8 +77,8 @@ Built two interactive report pages with DAX measures, slicers, KPI cards, line c
 
 ### Executive Overview
 
-![Executive Overview dashboard](dashboard png/executive_overview.png)
+![Executive Overview dashboard](dashboard%20png/executive_overview.png)
 
 ### Pricing & Customer Insights
 
-![Pricing and Customer Insights dashboard](dashboard png/princing_customer_insights.png)
+![Pricing and Customer Insights dashboard](dashboard%20png/princing_customer_insights.png)
