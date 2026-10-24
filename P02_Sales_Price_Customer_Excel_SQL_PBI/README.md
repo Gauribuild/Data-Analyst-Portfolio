@@ -81,4 +81,4 @@ Built two interactive report pages with DAX measures, slicers, KPI cards, line c
 
 ### Pricing & Customer Insights
 
-![Pricing and Customer Insights dashboard](dashboard%20png/princing_customer_insights.png)
+![Pricing and Customer Insights dashboard](dashboard%20png/customer_princing_insights.png)
